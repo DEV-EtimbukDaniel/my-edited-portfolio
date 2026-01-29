@@ -1,0 +1,2 @@
+# my-edited-portfolio
+THIS IS MY FIRST REPOSITORY UPLOAD HERE, 
